@@ -19,7 +19,7 @@ $ git clone https://github.com/cemusavi/news-paper-app
 $ cd news-paper-app
 ```
 
-### Setup Venv, Pip?
+### How to setup Venv & Pip?
 
 In previous step, we get the project and go into the directory.
 
@@ -37,5 +37,7 @@ We download it, setup it and now let's run the project.
 ```
 python3 manage.py runserver
 ```
+
+<br>
 
 This project is licensed under **MIT license**.
