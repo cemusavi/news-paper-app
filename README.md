@@ -4,7 +4,7 @@
 
 You can download zip file or clone the repository.
 
-**Download Zip file**
+- **Download Zip file**
 
 ```
 $ wget https://github.com/cemusavi/news-paper-app/archive/refs/heads/main.zip
@@ -12,7 +12,7 @@ $ unzip main.zip
 $ cd news-paper-app-main
 ```
 
-**Clone Repository**
+- **Clone Repository**
 
 ```
 $ git clone https://github.com/cemusavi/news-paper-app
@@ -37,3 +37,5 @@ We download it, setup it and now let's run the project.
 ```
 python3 manage.py runserver
 ```
+
+This project is licensed under **MIT license**.
